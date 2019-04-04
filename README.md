@@ -1,18 +1,10 @@
 # Project4
-
-Your repository must include a README.md file that clearly shows us:
-which project option you chose,
-what your name is,
-what your project does, concisely
-how to run your project
-
-
-**Overview**
-
 * Muneeb Hameed
 * Option 1
 
-This project scrapes data from the National Parks website for each state and outputs in a CSV information about the type of site, the name of the site, a short description of the site, and the location(s) of the site.
+**Overview**
+
+* This project scrapes data from the National Parks website for each state and outputs in a CSV information about the type of site, the name of the site, a short description of the site, and the location(s) of the site.
 
 **Running the application**<br>
 In order to run the application, the user must first install everything included in requirements.txt.
